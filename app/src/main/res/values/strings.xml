@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My First Project</string>
+    <string name="Bsd">בסד</string>
+    <string name="place_name">מדרשת דורות</string>
+    <string name="company_address">אגוזים 6, קרית ים</string>
+    <string name="first_lesson_title">יום שלישי כא שבט 06/02/18</string>
+    <string name="first_lesson_details">סעודת טו בשבט עם הרב דוד בוורמן</string>
+    <string name="second_lesson_title">יום שלישי כא שבט 06/02/18</string>
+    <string name="second_lesson_details">אופטימיות אמפטיה ומוטיבציה שלושת הכלים שמתניעים את החיים עם הרב צביאלי בן צור</string>
+    <string name="third_lesson_title">יום שלישי כח שבט 13/02/18</string>
+    <string name="third_lesson_details">גלגולה של מגילה עם הרב יעקב אסטרייכר</string>
+</resources>
